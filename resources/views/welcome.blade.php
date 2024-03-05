@@ -86,7 +86,8 @@ Right now, I am in my earlier period of career where I am very much eager to lea
                     </div>
 
                     <div class="col-md-12 footer-box">
-                        <h1>https://github.com/AbdullahRafiBD/creativetechpark-test</h1>
+                        <h2><a href="https://github.com/AbdullahRafiBD/creativetechpark-test" target="_blank" rel="noopener noreferrer">GitHub Repository Link</a></h2>
+
                     </div>
 
                 </div>
